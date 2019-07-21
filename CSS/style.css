@@ -1,0 +1,27 @@
+.navbar .navlink{
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active{
+  border-left: #444 3px solid;
+
+}
+
+.carousel-item{
+  height: 450px;
+}
+
+.carousel-image-1{
+  background-image: url(../img/project_images/meadow/image1.jpg);
+}
+
+.carousel-image-2{
+  background-image: url(../img/project_images/meadow/image2.jpg);
+}
+
+.carousel-image-3{
+  background-image: url(../img/project_images/meadow/image3.jpg);
+}
