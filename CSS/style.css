@@ -81,6 +81,30 @@ body{
   margin-top: -50px;
 }
 
+
+/* services */
+
+#faq .card{
+  border: #444;
+}
+
+#faq a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header{
+  background: #333;
+}
+
+/* footer */
+
+#main-footer{
+  background: #000;
+  color: #fff;
+}
+
 @media (min-width: 768px) {
     #gallery img{
       padding-bottom: 50px;
